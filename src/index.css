@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: "Dynalight", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+}
